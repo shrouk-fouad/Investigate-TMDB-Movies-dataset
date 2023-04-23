@@ -2,7 +2,7 @@
 Exploratory Data Analysis (EDA) and data visualization project using python
 
 ## Overview
-In this project, you'll go through the data analysis process and see how everything fits together./
+In this project, you'll go through the data analysis process and see how everything fits together.
 We will analyze a dataset and then communicate your findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
 ## Project Details
@@ -13,6 +13,7 @@ This collected data consists of 2 datasets **tmdb_5000_movies** and **tmdb_5000_
 * pandas
 * NumPy
 * Matplotlib
+* Seaborn
 * csv
 
 ## Findings
